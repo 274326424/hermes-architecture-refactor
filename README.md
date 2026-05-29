@@ -271,3 +271,5 @@ Hermes Agent（架构方）                编码 Agent（落地方）
 ---
 
 *本文分享通用架构重构方法论，欢迎各位开发者交流探讨、提出改进建议。*
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=274326424.hermes-architecture-refactor)

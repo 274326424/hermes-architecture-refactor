@@ -268,3 +268,5 @@ To me, this is more than just technical writing — it's the first time I've ind
 ---
 
 *This article shares general architecture refactoring methodology. Feedback and discussion are welcome.*
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=274326424.hermes-architecture-refactor)
