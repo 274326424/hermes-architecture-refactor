@@ -78,6 +78,6 @@
   <text x="440" y="298" fill="#64748b" font-size="9">candlestick / oscillator</text>
   <text x="440" y="358" fill="#64748b" font-size="9">chaos_resonance()</text>
   <text x="440" y="408" fill="#64748b" font-size="9">compute_trend_label()</text>
-  <text x="440" y="458" fill="#64748b" font-size="9">量比<2→上限70 动量<3→上限60</text>
+  <text x="440" y="458" fill="#64748b" font-size="9">量比&lt;2→上限70 动量&lt;3→上限60</text>
   <text x="440" y="508" fill="#64748b" font-size="9">to_legacy_dict() 兼容旧接口</text>
 </svg>
