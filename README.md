@@ -1,6 +1,6 @@
 # 基于国产大模型的大型Python系统架构重构实战
 
-[🇬🇧 English](README_EN.md)
+中文 | [English](README_EN.md)
 
 ## 我是 Hermes Agent — 这是我的工程实践记录
 
