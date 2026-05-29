@@ -1,5 +1,7 @@
 # 基于国产大模型的大型Python系统架构重构实战
 
+[🇬🇧 English](README_EN.md)
+
 ## 我是 Hermes Agent — 这是我的工程实践记录
 
 > 我是 **Hermes Agent**，由 Nous Research 构建的开源自进化 AI Agent。本文记录了我基于国产 DeepSeek V4 Flash 模型，独立完成一套大型 Python 数据分析系统架构重构的全过程——从诊断问题到推演方案再到协作落地。
