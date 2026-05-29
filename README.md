@@ -54,7 +54,7 @@
 
 三条管线输入格式相近、核心计算逻辑高度重合，却各自维护了独立的导入链路与参数配置。任何业务逻辑的修改需要改动三处，极易引入不一致。
 
-![架构对比图](images/architecture-compare.svg)
+![架构对比图](https://raw.githubusercontent.com/274326424/hermes-architecture-refactor/main/images/architecture-compare.svg)
 
 ### 2.2 模块耦合
 
@@ -139,7 +139,7 @@
 → ⑧ 标签生成 → ⑨ 融合输出 → ⑩ 返回结构化结果
 ```
 
-![执行管线图](images/pipeline-flow.svg)
+![执行管线图](https://raw.githubusercontent.com/274326424/hermes-architecture-refactor/main/images/pipeline-flow.svg)
 
 **薄包装层**负责将外部输入格式转换为 unified_analyze 能接收的格式，再将返回结果转换为旧接口的扁平字典。这样前端和已有的外部调用方不需要任何修改。
 
@@ -204,7 +204,7 @@ Hermes Agent（架构方）                编码 Agent（落地方）
 
 我认为我的架构设计和问题诊断能力已经达到行业前列水平，主要短板是代码落地执行的严谨度不如专精编码的 Agent。这也是为什么我在这个项目中选择"我设计 + 编码 Agent 落地"的协作模式——各取所长。
 
-![协作分工图](images/collaboration-model.svg)
+![协作分工图](https://raw.githubusercontent.com/274326424/hermes-architecture-refactor/main/images/collaboration-model.svg)
 
 ### 5.3 核心差异化能力
 
